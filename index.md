@@ -11,14 +11,15 @@ My empirical paper to complete the 3rd year of my studies at the Psychology facu
 ### Multi-Level Modelling (Linear Mixed Model)
 
 More detail can be found by clicking [here](https://github.com/sinem-ay/MLM-class)
+
 My assignment collection for the MLM class, which contains:
 
-Descriptive and exploratory statistics
-Correlation and regression (simple, multiple,)
-Residual plots
-Visualizing models
-Fixed effects and random effects modeling
-Cross-level interaction
+- Descriptive and exploratory statistics
+- Correlation and regression (simple, multiple,)
+- Residual plots
+- Visualizing models
+- Fixed effects and random effects modeling
+- Cross-level interaction
 
 # On-going Projects and Ideas
 
