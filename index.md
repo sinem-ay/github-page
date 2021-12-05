@@ -23,6 +23,6 @@ Cross-level interaction
 # On-going Projects and Ideas
 
 | Project Name  | Description | Language/Platform | Progress |
-| --- | --- | --- |
-| Monty Hall Simulations  | Investigating probability with Monty Hall problem <br /> and its simulation | Python | Not Started |
+| --- | --- | --- | --- |
+| Monty Hall Simulations  | Investigating probability with Monty Hall problem and its simulation | Python | Not Started |
 |  LED Light              | Basic project to get familiar with Raspberry Pi  | Raspberry Pi Pico, MicroPython | On-going |
